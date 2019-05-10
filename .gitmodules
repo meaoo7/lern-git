@@ -1,0 +1,3 @@
+[submodule "go-laravel"]
+	path = go-laravel
+	url = https://github.com/Qsnh/go-laravel-broadcast
